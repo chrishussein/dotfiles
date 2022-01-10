@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chussein7@gmail.com
+	name = Chris Hussein
